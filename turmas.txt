@@ -5,3 +5,8 @@ Venus
 Terra 
 Marte
 Saturno
+Urano
+Netuno
+Plutão
+Cripton
+Vulcano
